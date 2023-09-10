@@ -1,5 +1,6 @@
 # tiga_sendok_app
 
+Andreas Happy Hendrawan
 Golden Mom Test Case Project
 
 ## Getting Started
