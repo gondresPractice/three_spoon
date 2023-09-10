@@ -1,16 +1,12 @@
 # tiga_sendok_app
 
-A new Flutter project.
+Golden Mom Test Case Project
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Langkah Instalasi:
+  
+1.  VS Code: Buka terminal dengan menekan Ctrl + Backtick (Ctrl + \).
+    Android Studio: Buka terminal dengan klik pada ikon terminal di bagian bawah layar atau dengan menekan Alt + F12.
+2.  Gunakan perintah cd untuk berpindah ke direktori tempat Anda ingin menyimpan proyek Flutter yang akan di-clone. Misalnya: cd ~/Documents/FlutterProjects
+3.  Lalu ketik di terminal anda git clone URL_REPOSITORI
